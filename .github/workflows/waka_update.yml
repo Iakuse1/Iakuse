@@ -17,9 +17,10 @@ jobs:
           CARD_TYPE: 'total'
           TIME_FORMAT: 'human_readable'
           FILE_NAME: 'waka-total-time-card.svg'
+          # WYMUSZENIE KOLORÓW NA TE Z WZORU
           TEXT_COLOR: 'ffffff'
           TITLE_COLOR: 'ffffff'
-          ICON_COLOR: 'E3508C'
+          ICON_COLOR: 'E3508C' 
           BACKGROUND_COLOR: '0D1117'
           BORDER_COLOR: '0D1117'
 
