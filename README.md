@@ -38,10 +38,7 @@ Reverse Engineering • Unity Game Dev • Assembly
 
 ---
 
-### TOTAL CODING TIME ⌚
-<p align="center">
-<img src="https://raw.githubusercontent.com/Iakuse1/Iakuse1/main/waka-total-time-card.svg" alt="WakaTime Total Coding Time" />
-</p>
+
 
 
 ---
