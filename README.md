@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi, I'm Czira! 👋</h1><br>
 <b>⚡Backend & Frontend Developer</b><br>
-<a style="text-decoration:none;" href="https://github.com/mimitokox">@mimitokox</a><br>
+<a style="text-decoration:none;" href="https://github.com/mimitokox">@Iakuse1</a><br>
 <br>
 <b>What I Do</b> 💻<br>
 Programming • Video Editing • 2D Animation (AE)<br>
