@@ -1,7 +1,7 @@
 # Hi, I'm Czira! 👋
 
 ### ⚡ Backend & Frontend Developer
-@Iakuse1
+
 
 ---
 
