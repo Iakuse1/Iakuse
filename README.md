@@ -1,13 +1,13 @@
 # Hi, I'm Czira! 👋
 
 ### ⚡ Backend & Frontend Developer
-
+@Iakuse1
 
 ---
 
 ### What I Do 💻
 Programming • Video Editing • 2D Animation (AE)
-Discord Bots • Cheats (MC fabric, external)
+Discord Bots • Cheats • AI API
 
 ---
 
@@ -32,7 +32,7 @@ Reverse Engineering • Unity Game Dev • Assembly
 ### ACTIVITY LAST YEAR
 <p align="center">
 <a href="https://github.com/Iakuse1">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iakuse1&theme=gotham" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iakuse1&area=true&theme=gotham" alt="GitHub Activity Grid" />
 </a>
 </p>
 
@@ -40,7 +40,7 @@ Reverse Engineering • Unity Game Dev • Assembly
 
 ### TOTAL CODING TIME ⌚
 <p align="center">
-<img src="https://raw.githubusercontent.com/Iakuse1/Iakuse1/master/waka-card.svg" alt="WakaTime Total Coding Time" />
+<img src="https://raw.githubusercontent.com/Iakuse1/Iakuse1/main/waka-total-time-card.svg" alt="WakaTime Total Coding Time" />
 </p>
 
 
