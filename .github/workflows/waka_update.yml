@@ -1,0 +1,26 @@
+name: WakaTime Stats Update
+
+on:
+  schedule:
+    # Uruchamia się raz dziennie o 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@v6
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Opcje, aby wyświetlić Total Code Time
+          SHOW_TOTAL_CODE_TIME: true
+          # Ustawiamy motyw i opcje tak, by wygenerować tylko kartę czasu
+          COMPACT_TITLE: true
+          SHOW_PROFILE_VIEWS: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_COMMIT: false
+          SHOW_LOC_CHART: false
+          SHOW_LANGUAGE: false
