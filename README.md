@@ -7,7 +7,7 @@
 
 ### What I Do 💻
 Programming • Video Editing • 2D Animation (AE)
-Discord Bots • Cheats (MC fabric, external) • AI API
+Discord Bots • Cheats (MC fabric, external)
 
 ---
 
