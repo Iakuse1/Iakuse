@@ -14,14 +14,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iakuse1&area=true&theme=gotham" alt="GitHub Activity Grid" />
 </a>
 </p>
-
----
-
-### TOTAL CODING TIME ⌚
-<p align="center">
-</p>
-
-
 ---
 
 ### Contact 📧
