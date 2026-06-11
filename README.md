@@ -17,6 +17,6 @@
 ---
 
 ### Contact 📧
-Discord: **17cps__**
+Discord: **czasemm**
 
 ***
